@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SciCalc Pro
 
 A premium, feature-rich scientific calculator built with vanilla JavaScript, HTML, and CSS. No dependencies — just pure, performant math.
@@ -168,3 +169,6 @@ Built with vanilla JavaScript — no frameworks, no bloat, just pure performance
 **Made with ❤️ by Zain**
 
 Try it now: [Open Calculator](./index.html)
+=======
+# scientific-calculator
+>>>>>>> f33cb2e83b9cf71c60e4b1202a2b9bd9074415f9
